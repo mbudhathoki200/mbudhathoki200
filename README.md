@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Software Engineer/Developer)`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbudhathoki200&label=Profile%20views&color=0e75b6&style=flat" alt="mbudhathoki200" /> </p>
-<img align="right" width=400 src="https://media.istockphoto.com/id/965528064/vector/man-programmer-working-on-computer-with-code-on-screen-illustration.jpg?s=612x612&w=0&k=20&c=ElI-y0u_8uCan9QSGrEbd1zKm3NIW_gIwe3LoHzgCtQ=">
+<img align="right" width=300 src="https://media.istockphoto.com/id/965528064/vector/man-programmer-working-on-computer-with-code-on-screen-illustration.jpg?s=612x612&w=0&k=20&c=ElI-y0u_8uCan9QSGrEbd1zKm3NIW_gIwe3LoHzgCtQ=">
 <p align="left"> <a href="https://twitter.com/mbudhathoki2000" target="blank"><img src="https://img.shields.io/twitter/follow/mbudhathoki2000?logo=twitter&style=for-the-badge" alt="mbudhathoki2000" /></a> </p>
 
 - 🔭 I’m currently working on **Something Good**
